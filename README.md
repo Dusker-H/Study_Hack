@@ -8,7 +8,7 @@
 
 3. ### [시스템 해킹](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack)
 
-   - 7.17(수) - [Pwntools](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack/Pwntools), Shellcode
+   - 7.17(수) - [Pwntools](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack/Pwntools/Pwntools.md), [Shellcode](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack/Shell_code/Shell_code.md)
 
 4. ### [웹 해킹](https://github.com/Dusker-H/Study_Hack/tree/main/Web_Hack)
 
