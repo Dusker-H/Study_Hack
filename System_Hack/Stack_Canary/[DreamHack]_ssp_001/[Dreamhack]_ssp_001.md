@@ -336,7 +336,7 @@ int main(int argc, char *argv[]) {
     
     ### 전체 스택 구조 시각화
     
-    ![Untitled](./w[Dreamhack]_ssp_001.assets/Untitled%201.png)
+    ![Untitled](./[Dreamhack]_ssp_001.assets/Untitled%201.png)
     
 
 ### 익스플로잇 코드 작성

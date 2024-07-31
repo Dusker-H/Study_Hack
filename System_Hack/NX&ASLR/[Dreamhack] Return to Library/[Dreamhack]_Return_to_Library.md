@@ -16,9 +16,6 @@
 
 ## 전체 코드
 
-- 두 번째 `read` 함수에서 buf 변수는 덮어 씌어지려나?
-    - 
-
 ```c
 // Name: rtl.c
 // Compile: gcc -o rtl rtl.c -fno-PIE -no-pie
