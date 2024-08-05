@@ -18,6 +18,7 @@
      - [Stack Canary Bypass_실습(ssp_001)](https://github.com/Dusker-H/Study_Hack/blob/main/System_Hack/Stack_Canary/%5BDreamHack%5D_ssp_001/%5BDreamhack%5D_ssp_001.md)
      - [Return To Library 실습](https://github.com/Dusker-H/Study_Hack/blob/main/System_Hack/NX%26ASLR/%5BDreamhack%5D%20Return%20to%20Library/%5BDreamhack%5D_Return_to_Library.md)
    - 7.31(수) - [Return Oriented Programming](https://github.com/Dusker-H/Study_Hack/blob/main/System_Hack/NX%26ASLR/%5BDreamhack%5D_Return_Oriented_Programming/%5BDreamhack%5D_Return_Oriented_Programming.md), [Basic_ROP_x64](https://github.com/Dusker-H/Study_Hack/blob/main/System_Hack/NX%26ASLR/%5BDreamhack%5D_Basic_ROP_x64/%5BDreamhack%5D_Basic_ROP_x64.md)
+   - 8.7(수) - Bypass_PIE&RELRO
 
 4. ### [웹 해킹](https://github.com/Dusker-H/Study_Hack/tree/main/Web_Hack)
 
@@ -25,4 +26,4 @@
    - CSRF(Cross-Site Request Forgery)
    - Command Injection
 
-5. ### 바이러스 리버싱
+5. ### 악성코드 분석
