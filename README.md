@@ -4,9 +4,7 @@
 
 2. ### [초보해커 칼리리눅스 입문](https://github.com/Dusker-H/Study_Hack/tree/main/%EC%B4%88%EB%B3%B4%ED%95%B4%EC%BB%A4_%EC%B9%BC%EB%A6%AC%EB%A6%AC%EB%88%85%EC%8A%A4_%EC%9E%85%EB%AC%B8)
 
-----
-
-3. ### [시스템 해킹](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack)
+3. ### [Pwnable](https://github.com/Dusker-H/Study_Hack/tree/main/System_Hack)
    - 1.Pwntools
    - 2.Shell_code
    - 3.Stack_Buffer_Overflow
@@ -21,10 +19,12 @@
    - 12.Command_Injection
    - 13.Path_Traversal
 
-4. ### [웹 해킹](https://github.com/Dusker-H/Study_Hack/tree/main/Web_Hack)
+4. ### [Web](https://github.com/Dusker-H/Study_Hack/tree/main/Web_Hack)
 
    - XSS(Cross Site Script)
    - CSRF(Cross-Site Request Forgery)
    - Command Injection
 
-5. ### 악성코드 분석
+5. ### Reversing
+   - r-xor-t
+   - Secret_Message
